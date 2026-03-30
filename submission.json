@@ -1,0 +1,6 @@
+{
+  "prompt": "A brand new restaurant on a busy city street at dinner time. Every neighboring restaurant on the street is packed full of people — warm glowing windows, crowded tables visible through the glass, long queues outside. But the new restaurant in the middle is completely empty inside — pristine untouched tables, chairs perfectly arranged, a chef visible through the window standing alone waiting. The exterior is clean and new with a fresh sign. Passersby on the street walk past without stopping, glancing at the empty interior and moving toward the crowded restaurants instead. Shot from across the street at eye level, capturing the entire street scene. Rainy night, warm restaurant lighting, cinematic, photorealistic, street photography style. No text, no labels, no signs with readable words, no diagrams, no annotations.",
+  "model": "Gemini",
+  "concept": "Cold Start Problem",
+  "metaphor": "A brand new empty restaurant surrounded by packed ones — no customers come because there are no reviews, and there are no reviews because no customers have come, mirroring a system that cannot recommend without data it cannot collect without users."
+}
